@@ -1,2 +1,3 @@
-# Reposithub
-This repository contains info about SRM-internship on react js.
+# harsha
+web project
+# internship programe on web design and development
